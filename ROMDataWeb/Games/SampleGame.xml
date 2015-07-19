@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<game>
+    <name>Sample Game</name>
+    <datalocations>
+        <datalocation name="Sample Offset" startOffset="0010" endOffset="0020">
+            <description>This is a description.</description>
+        </datalocation>
+    </datalocations>
+</game>
